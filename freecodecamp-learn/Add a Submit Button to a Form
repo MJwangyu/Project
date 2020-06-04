@@ -1,12 +1,3 @@
-让我们来为你的form添加一个submit(提交)按钮，点击这个按钮，表单中的数据将会被发送到你通过action属性指定的地址上。
-
-下面是submit按钮的例子：
-
-<button type="submit">this button submits the form</button>
-
-为你的form元素添加一个type为submit的提交按钮，用"Submit"作按钮文本。
-
-代码：
 <link href="https://fonts.gdgdocs.org/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
   .red-text {

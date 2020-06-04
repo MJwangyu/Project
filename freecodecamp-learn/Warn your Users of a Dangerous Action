@@ -1,10 +1,4 @@
-Bootstrap自带了一些预定义的按钮颜色。红色btn-danger被用来提醒用户该操作具有“破坏性”，例如删除一张猫的图片。
 
-创建一个文本为 "Delete" 的按钮，并且给它添加 class btn-danger。
-
-注意：这些标签仍然需要 btn 与 btn-block class。
-
-代码：
 <link href="//fonts.gdgdocs.org/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
   .red-text {
